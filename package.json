@@ -1,5 +1,4 @@
 {
-  "name": "food-recipe",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -38,5 +37,5 @@
   },
   "devDependencies": {
     "tailwindcss": "^3.3.6"
-  }
+   }
 }
